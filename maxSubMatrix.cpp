@@ -21,9 +21,14 @@ int getRowMaxSum(vector<int> &vec){
 int getMaxSubMatrix(vector<vector<int> > &vec){
     int maxSum = INT_MIN;
 
+    // 从第一行开始，求每一行的最大子数组和
+    // 然后将其与后面几行对应位置相加，在构成的新行
+    // 中求最大子数组和
     for(int i = 0;i < vec.size();i++){
         vector<int> temp(vec.size(),0);
+        // 后面几行
         for(int j = i;j < vec.size();j++){
+            // 对应位置相加
             for(int k = 0;k < vec[i].size();k++){
                 temp[k] += vec[j][k];
             }
