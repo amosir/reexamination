@@ -31,6 +31,7 @@ int main()
     scanf("%d", &total);
     for (int i = 0; i < total; i++)
     {
+        // scanf 会接收换行符，这里用于接收换行符
         getchar();
         scanf("%c %c", &g_a, &g_b);
         i_a = map2int(g_a);
