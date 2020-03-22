@@ -6,3 +6,4 @@
 4. [反序输出](https://github.com/Tiansir-wg/reexamination/blob/master/reverse_string.c)
 5. [手机键盘](https://github.com/Tiansir-wg/reexamination/blob/master/keyboard.c)
 6. [质因子的个数](https://github.com/Tiansir-wg/reexamination/blob/master/getPrimeFactor.c)
+7. [整数划分](https://github.com/Tiansir-wg/reexamination/blob/master/integerSolvation.c)
