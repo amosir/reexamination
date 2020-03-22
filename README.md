@@ -7,3 +7,5 @@
 5. [手机键盘](https://github.com/Tiansir-wg/reexamination/blob/master/keyboard.c)
 6. [质因子的个数](https://github.com/Tiansir-wg/reexamination/blob/master/getPrimeFactor.c)
 7. [整数划分](https://github.com/Tiansir-wg/reexamination/blob/master/integerSolvation.c)
+8. [成绩排序 2](https://github.com/Tiansir-wg/reexamination/blob/master/gradeSort_v2.c)
+9. [二叉树遍历](https://github.com/Tiansir-wg/reexamination/blob/master/binaryTreeTraverse.c)
