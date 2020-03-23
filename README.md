@@ -18,4 +18,4 @@
 16. [N 的阶乘](https://github.com/Tiansir-wg/reexamination/blob/master/factorial.c)
 17. [剩下的树](https://github.com/Tiansir-wg/reexamination/blob/master/lefttree.c)
 18. [查找学生信息](https://github.com/Tiansir-wg/reexamination/blob/master/findStuInfo.c)
-19.
+19. [谁是你的潜在朋友](https://github.com/Tiansir-wg/reexamination/blob/master/latentFriends.c)
