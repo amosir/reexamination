@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 int main()
 {
     for (int a = 1; a <= 5; a++)
@@ -10,7 +9,7 @@ int main()
             {
                 if (a * 100 + b * 10 + c + b * 100 + c * 10 + c == 532)
                 {
-                    cout << a << " " << b << " " << c << endl;
+                    printf("%d %d %d\n", a, b, c);
                 }
             }
         }
