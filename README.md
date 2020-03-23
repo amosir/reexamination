@@ -17,3 +17,5 @@
 15. [最大序列和](https://github.com/Tiansir-wg/reexamination/blob/master/maxSequenceSum.c)
 16. [N 的阶乘](https://github.com/Tiansir-wg/reexamination/blob/master/factorial.c)
 17. [剩下的树](https://github.com/Tiansir-wg/reexamination/blob/master/lefttree.c)
+18. [查找学生信息](https://github.com/Tiansir-wg/reexamination/blob/master/findStuInfo.c)
+19.
