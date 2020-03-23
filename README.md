@@ -19,3 +19,5 @@
 17. [剩下的树](https://github.com/Tiansir-wg/reexamination/blob/master/lefttree.c)
 18. [查找学生信息](https://github.com/Tiansir-wg/reexamination/blob/master/findStuInfo.c)
 19. [谁是你的潜在朋友](https://github.com/Tiansir-wg/reexamination/blob/master/latentFriends.c)
+20. [密码翻译](https://github.com/Tiansir-wg/reexamination/blob/master/codeTranslation.c)
+21. [最简真分数](https://github.com/Tiansir-wg/reexamination/blob/master/simplestFraction.cpp)
