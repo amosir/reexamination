@@ -13,3 +13,4 @@
 11. [abc](https://github.com/Tiansir-wg/reexamination/blob/master/abc.c)
 12. [特殊乘法](https://github.com/Tiansir-wg/reexamination/blob/master/specialMultiply.c)
 13. [今年的第几天](https://github.com/Tiansir-wg/reexamination/blob/master/dayOfYear.c)
+14. [完数和盈数](https://github.com/Tiansir-wg/reexamination/blob/master/completionAndSurplus.c)
