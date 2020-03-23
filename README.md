@@ -11,3 +11,4 @@
 9. [二叉树遍历](https://github.com/Tiansir-wg/reexamination/blob/master/binaryTreeTraverse.c)
 10. [最小邮票数](https://github.com/Tiansir-wg/reexamination/blob/master/minimumStamps.c)
 11. [abc](https://github.com/Tiansir-wg/reexamination/blob/master/abc.c)
+12. [特殊乘法](https://github.com/Tiansir-wg/reexamination/blob/master/specialMultiply.c)
