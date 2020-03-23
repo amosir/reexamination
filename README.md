@@ -22,3 +22,4 @@
 20. [密码翻译](https://github.com/Tiansir-wg/reexamination/blob/master/codeTranslation.c)
 21. [最简真分数](https://github.com/Tiansir-wg/reexamination/blob/master/simplestFraction.cpp)
 22. [大整数的因子](https://github.com/Tiansir-wg/reexamination/blob/master/bigIntergerFactor.c)
+23. [放苹果](https://github.com/Tiansir-wg/reexamination/blob/master/layApple.c)
