@@ -15,3 +15,4 @@
 13. [今年的第几天](https://github.com/Tiansir-wg/reexamination/blob/master/dayOfYear.c)
 14. [完数和盈数](https://github.com/Tiansir-wg/reexamination/blob/master/completionAndSurplus.c)
 15. [最大序列和](https://github.com/Tiansir-wg/reexamination/blob/master/maxSequenceSum.c)
+16. [N 的阶乘](https://github.com/Tiansir-wg/reexamination/blob/master/factorial.c)
