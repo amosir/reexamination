@@ -12,3 +12,4 @@
 10. [最小邮票数](https://github.com/Tiansir-wg/reexamination/blob/master/minimumStamps.c)
 11. [abc](https://github.com/Tiansir-wg/reexamination/blob/master/abc.c)
 12. [特殊乘法](https://github.com/Tiansir-wg/reexamination/blob/master/specialMultiply.c)
+13. [今年的第几天](https://github.com/Tiansir-wg/reexamination/blob/master/dayOfYear.c)
