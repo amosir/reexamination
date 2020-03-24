@@ -27,3 +27,4 @@
 25. [全排列](https://github.com/Tiansir-wg/reexamination/blob/master/permutation.c)
 26. [二叉树祖先](https://github.com/Tiansir-wg/reexamination/blob/master/binaryAncester.c)
 27. [吃糖果](https://github.com/Tiansir-wg/reexamination/blob/master/eatCandy.c)
+28. [与 7 无关的数](https://github.com/Tiansir-wg/reexamination/blob/master/sevenUnrelated.c)
