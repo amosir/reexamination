@@ -1,9 +1,8 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 int main()
 {
     int num1, num2;
-    while (cin >> num1 >> num2)
+    while (scanf("%d %d", &num1, &num2) != EOF)
     {
         while (num1 != num2)
         {
@@ -16,7 +15,7 @@ int main()
                 num2 /= 2;
             }
         }
-        cout << num1 << endl;
+        printf("%d\n", num1);
     }
     return 0;
 }
