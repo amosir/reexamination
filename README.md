@@ -29,4 +29,4 @@
 27. [吃糖果](https://github.com/Tiansir-wg/reexamination/blob/master/eatCandy.c)
 28. [与 7 无关的数](https://github.com/Tiansir-wg/reexamination/blob/master/sevenUnrelated.c)
 29. [位操作练习](https://github.com/Tiansir-wg/reexamination/blob/master/bitPractice.c)
-30.
+30. [打印极值点坐标](https://github.com/Tiansir-wg/reexamination/blob/master/printExtremePoint.c)
