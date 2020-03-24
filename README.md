@@ -30,3 +30,4 @@
 28. [与 7 无关的数](https://github.com/Tiansir-wg/reexamination/blob/master/sevenUnrelated.c)
 29. [位操作练习](https://github.com/Tiansir-wg/reexamination/blob/master/bitPractice.c)
 30. [打印极值点坐标](https://github.com/Tiansir-wg/reexamination/blob/master/printExtremePoint.c)
+31. [首字母大写](https://github.com/Tiansir-wg/reexamination/blob/master/firstLetterCapitalize.c)
