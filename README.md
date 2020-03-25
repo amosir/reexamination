@@ -45,3 +45,4 @@
 41. [最大上升子序列和](https://github.com/Tiansir-wg/reexamination/blob/master/maxAscendingSequence.c)
 42. [字符串排序](https://github.com/Tiansir-wg/reexamination/blob/master/stringSort.c)
 43. [进制转换(16 进制转 2 进制)](https://github.com/Tiansir-wg/reexamination/blob/master/Hex2Decimal.c)
+44. [八皇后](https://github.com/Tiansir-wg/reexamination/blob/master/eightQueen.c)
