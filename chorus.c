@@ -8,7 +8,7 @@ int max(int a, int b)
 int main()
 {
     int stuCnt;
-    while (scanf("%d", &stuCnt) && stuCnt != 0)
+    while (scanf("%d", &stuCnt) != EOF && stuCnt != 0)
     {
         int heights[MAX_SIZE];
         // leftDp[i]表示heights[i]之前的最长递增序列的长度
