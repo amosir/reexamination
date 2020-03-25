@@ -34,3 +34,4 @@
 32. [神奇的口袋](https://github.com/Tiansir-wg/reexamination/blob/master/magicalPocket.c)
 33. [买房子](https://github.com/Tiansir-wg/reexamination/blob/master/buyHouse.c)
 34. [最大子矩阵](https://github.com/Tiansir-wg/reexamination/blob/master/maxSubMatrix.c)
+35. [点菜问题](https://github.com/Tiansir-wg/reexamination/blob/master/orderDishes.c)
