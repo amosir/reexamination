@@ -39,3 +39,4 @@
 37. [平均年龄](https://github.com/Tiansir-wg/reexamination/blob/master/averageAge.c)
 38. [合唱队型](https://github.com/Tiansir-wg/reexamination/blob/master/chorus.c)
 39. [采药](https://github.com/Tiansir-wg/reexamination/blob/master/collectHerbs.c)
+40. [拦截导弹](https://github.com/Tiansir-wg/reexamination/blob/master/defendingMissile.c)
