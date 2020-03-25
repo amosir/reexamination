@@ -4,7 +4,7 @@
 #define MAX_CNT 50
 void sortAndPrint(char strs[][MAX_LEN], int cnt)
 {
-    // 排序
+    // 冒泡排序
     for (int i = 1; i <= cnt - 1; i++)
     {
         int flag = 0;
@@ -18,18 +18,16 @@ void sortAndPrint(char strs[][MAX_LEN], int cnt)
                 flag = 1;
             }
         }
-        for(int k = 0;k < cnt;k++){
-            printf("%s\n",strs[k]);
-        }
         if (flag == 0)
         {
             break;
         }
     }
 
+    // 打印
     for (int i = 0; i < cnt; i++)
     {
-        printf("==%s\n", strs[i]);
+        printf("%s\n", strs[i]);
     }
 }
 int main()
@@ -37,6 +35,7 @@ int main()
     int cnt, stoped = 0;
     while (scanf("%d", &cnt) != EOF && !stoped)
     {
+        // 吸收换行符
         getchar();
         char strs[MAX_CNT][MAX_LEN];
         int i;
@@ -49,6 +48,7 @@ int main()
                 break;
             }
         }
+        // i和cnt中较小者作为实际字符串数
         sortAndPrint(strs, cnt > i ? i : cnt);
     }
     return 0;
