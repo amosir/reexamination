@@ -37,3 +37,4 @@
 35. [点菜问题](https://github.com/Tiansir-wg/reexamination/blob/master/orderDishes.c)
 36. [整数奇偶排序](https://github.com/Tiansir-wg/reexamination/blob/master/oddEvenSort.c)
 37. [平均年龄](https://github.com/Tiansir-wg/reexamination/blob/master/averageAge.c)
+38. [合唱队型](https://github.com/Tiansir-wg/reexamination/blob/master/chorus.c)
