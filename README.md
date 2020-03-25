@@ -47,3 +47,4 @@
 43. [进制转换(16 进制转 2 进制)](https://github.com/Tiansir-wg/reexamination/blob/master/Hex2Decimal.c)
 44. [八皇后](https://github.com/Tiansir-wg/reexamination/blob/master/eightQueen.c)
 45. [密码加密](https://github.com/Tiansir-wg/reexamination/blob/master/secretCodeEncrypt.c)
+46. [数字反转](https://github.com/Tiansir-wg/reexamination/blob/master/numberReverse.c)
