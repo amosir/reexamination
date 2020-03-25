@@ -1,5 +1,7 @@
 ## 目录
 
+> [牛客网各高校机试原题](https://www.nowcoder.com/ta/kaoyan)
+
 1. [成绩排序 1](https://github.com/Tiansir-wg/reexamination/blob/master/grade_sort.c)
 2. [约数的个数](https://github.com/Tiansir-wg/reexamination/blob/master/countApproximateNumber.c)
 3. [代理服务器](https://github.com/Tiansir-wg/reexamination/blob/master/proxyServer.c)
@@ -40,3 +42,4 @@
 38. [合唱队型](https://github.com/Tiansir-wg/reexamination/blob/master/chorus.c)
 39. [采药](https://github.com/Tiansir-wg/reexamination/blob/master/collectHerbs.c)
 40. [拦截导弹](https://github.com/Tiansir-wg/reexamination/blob/master/defendingMissile.c)
+41. [最大上升子序列和](https://github.com/Tiansir-wg/reexamination/blob/master/maxAscendingSequence.c)
