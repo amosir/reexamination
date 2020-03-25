@@ -46,3 +46,4 @@
 42. [字符串排序](https://github.com/Tiansir-wg/reexamination/blob/master/stringSort.c)
 43. [进制转换(16 进制转 2 进制)](https://github.com/Tiansir-wg/reexamination/blob/master/Hex2Decimal.c)
 44. [八皇后](https://github.com/Tiansir-wg/reexamination/blob/master/eightQueen.c)
+45. [密码加密](https://github.com/Tiansir-wg/reexamination/blob/master/secretCodeEncrypt.c)
