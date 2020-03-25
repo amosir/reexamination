@@ -43,3 +43,4 @@
 39. [采药](https://github.com/Tiansir-wg/reexamination/blob/master/collectHerbs.c)
 40. [拦截导弹](https://github.com/Tiansir-wg/reexamination/blob/master/defendingMissile.c)
 41. [最大上升子序列和](https://github.com/Tiansir-wg/reexamination/blob/master/maxAscendingSequence.c)
+42. [字符串排序](https://github.com/Tiansir-wg/reexamination/blob/master/stringSort.c)
