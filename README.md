@@ -57,3 +57,4 @@
 53. [继续畅通工程](https://github.com/Tiansir-wg/reexamination/blob/master/connectedvillages_2.c)
 54. [百鸡问题](https://github.com/Tiansir-wg/reexamination/blob/master/baiji.c)
 55. [互换最大最小数](https://github.com/Tiansir-wg/reexamination/blob/master/swapMaximumAndMinimum.c)
+56. [找 x](https://github.com/Tiansir-wg/reexamination/blob/master/findX.c)
