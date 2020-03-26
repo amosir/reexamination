@@ -65,3 +65,5 @@
 61. [素数判定](https://github.com/Tiansir-wg/reexamination/blob/master/isPrime.c)
 62. [字符串连接](https://github.com/Tiansir-wg/reexamination/blob/master/stringConcat.c)
 63. [数字阶梯求和](https://github.com/Tiansir-wg/reexamination/blob/master/sumOfDigitalSteps.c)
+64. [字符串内排序](https://github.com/Tiansir-wg/reexamination/blob/master/selectSort.c)
+65. [字符串去除特定字符](https://github.com/Tiansir-wg/reexamination/blob/master/removeSpecifiedChar.c)
