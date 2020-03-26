@@ -1,26 +1,26 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
+#define SIZE 21
 int main()
 {
-    int number[21];
-    for (int i = 0; i <= 20; i++)
+    int number[SIZE];
+    for (int i = 0; i < SIZE; i++)
     {
         number[i] = 0;
     }
-    for (int i = 0; i < 20; i++)
+    for (int i = 1; i < SIZE; i++)
     {
         int temp;
-        cin >> temp;
+        scanf("%d", &temp);
         number[temp]++;
     }
     int max = 0;
-    for (int i = 1; i < 20; i++)
+    for (int i = 1; i < SIZE; i++)
     {
         if (number[i] > number[max])
         {
             max = i;
         }
     }
-    cout << max << endl;
+    printf("%d\n", max);
     return 0;
 }
