@@ -60,3 +60,4 @@
 56. [找 x](https://github.com/Tiansir-wg/reexamination/blob/master/findX.c)
 57. [判断三角形类型](https://github.com/Tiansir-wg/reexamination/blob/master/judgeTriangle.c)
 58. [众数](https://github.com/Tiansir-wg/reexamination/blob/master/mostNum.c)
+59. [最大公约数](https://github.com/Tiansir-wg/reexamination/blob/master/gcd.c)
