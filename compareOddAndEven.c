@@ -1,15 +1,14 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 int main()
 {
     int cnt;
-    while (cin >> cnt && cnt != 0)
+    while (scanf("%d", &cnt) != EOF)
     {
         int oddCnt = 0, evenCnt = 0;
         for (int i = 0; i < cnt; i++)
         {
             int temp;
-            cin >> temp;
+            scanf("%d", &temp);
             if ((temp & 1) == 0)
             {
                 evenCnt++;
@@ -21,11 +20,11 @@ int main()
         }
         if (evenCnt > oddCnt)
         {
-            cout << "NO" << endl;
+            printf("NO\n");
         }
         else
         {
-            cout << "YES" << endl;
+            printf("YES\n");
         }
     }
     return 0;
