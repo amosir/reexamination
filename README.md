@@ -67,3 +67,5 @@
 63. [数字阶梯求和](https://github.com/Tiansir-wg/reexamination/blob/master/sumOfDigitalSteps.c)
 64. [字符串内排序](https://github.com/Tiansir-wg/reexamination/blob/master/selectSort.c)
 65. [字符串去除特定字符](https://github.com/Tiansir-wg/reexamination/blob/master/removeSpecifiedChar.c)
+66. [计算两个矩阵的乘积](https://github.com/Tiansir-wg/reexamination/blob/master/matrixMultiply.c)
+67. [字符串的反码](https://github.com/Tiansir-wg/reexamination/blob/master/reverseCodeOfString.c)
