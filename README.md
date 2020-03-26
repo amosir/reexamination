@@ -62,3 +62,4 @@
 58. [众数](https://github.com/Tiansir-wg/reexamination/blob/master/mostNum.c)
 59. [最大公约数](https://github.com/Tiansir-wg/reexamination/blob/master/gcd.c)
 60. [完数](https://github.com/Tiansir-wg/reexamination/blob/master/perfactNumber.c)
+61. [素数判定](https://github.com/Tiansir-wg/reexamination/blob/master/isPrime.c)
