@@ -49,3 +49,4 @@
 45. [密码加密](https://github.com/Tiansir-wg/reexamination/blob/master/secretCodeEncrypt.c)
 46. [数字反转](https://github.com/Tiansir-wg/reexamination/blob/master/numberReverse.c)
 47. [棋盘游戏](https://github.com/Tiansir-wg/reexamination/blob/master/boardGame.c)
+48. [计算表达式](https://github.com/Tiansir-wg/reexamination/blob/master/calculateExpression.c)
