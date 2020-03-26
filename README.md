@@ -51,3 +51,4 @@
 47. [棋盘游戏](https://github.com/Tiansir-wg/reexamination/blob/master/boardGame.c)
 48. [计算表达式](https://github.com/Tiansir-wg/reexamination/blob/master/calculateExpression.c)
 49. [日期差值](https://github.com/Tiansir-wg/reexamination/blob/master/dateDistance.c)
+50. [字母统计](https://github.com/Tiansir-wg/reexamination/blob/master/charStatistic.c)
