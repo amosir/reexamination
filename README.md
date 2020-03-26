@@ -53,3 +53,4 @@
 49. [日期差值](https://github.com/Tiansir-wg/reexamination/blob/master/dateDistance.c)
 50. [字母统计](https://github.com/Tiansir-wg/reexamination/blob/master/charStatistic.c)
 51. [后缀子串排序](https://github.com/Tiansir-wg/reexamination/blob/master/sortPostFix.c)
+52. [畅通工程](https://github.com/Tiansir-wg/reexamination/blob/master/connectedvillages_1.c)
