@@ -85,3 +85,4 @@
 81. [守形数](https://github.com/Tiansir-wg/reexamination/blob/master/guardNumber.c)
 82. [打印日期](https://github.com/Tiansir-wg/reexamination/blob/master/printDate.c)
 83. [大整数排序](https://github.com/Tiansir-wg/reexamination/blob/master/sortBigInteger.c)
+84. [N 阶楼梯上楼问题](https://github.com/Tiansir-wg/reexamination/blob/master/nSteps.c)
