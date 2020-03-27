@@ -88,3 +88,4 @@
 84. [N 阶楼梯上楼问题](https://github.com/Tiansir-wg/reexamination/blob/master/nSteps.c)
 85. [回文字符串](https://github.com/Tiansir-wg/reexamination/blob/master/palindrome.c)
 86. [找位置](https://github.com/Tiansir-wg/reexamination/blob/master/findPosition.c)
+87. [八进制](https://github.com/Tiansir-wg/reexamination/blob/master/octalNum.c)
