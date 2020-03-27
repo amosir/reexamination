@@ -80,3 +80,4 @@
 76. [a+b](https://github.com/Tiansir-wg/reexamination/blob/master/aPlusB.c)
 77. [快速排序](https://github.com/Tiansir-wg/reexamination/blob/master/quickSort.c)
 78. [特殊排序](https://github.com/Tiansir-wg/reexamination/blob/master/heapSort.c)
+79. [遍历链表](https://github.com/Tiansir-wg/reexamination/blob/master/visitLinkList.c)
