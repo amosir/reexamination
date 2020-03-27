@@ -78,3 +78,4 @@
 74. [统计单词](https://github.com/Tiansir-wg/reexamination/blob/master/countCharOfWords.c)
 75. [ip 地址](https://github.com/Tiansir-wg/reexamination/blob/master/ipAddress.c)
 76. [a+b](https://github.com/Tiansir-wg/reexamination/blob/master/aPlusB.c)
+77. [快速排序](https://github.com/Tiansir-wg/reexamination/blob/master/quickSort.c)
