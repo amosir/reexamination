@@ -71,3 +71,4 @@
 67. [字符串的反码](https://github.com/Tiansir-wg/reexamination/blob/master/reverseCodeOfString.c)
 68. [堆栈的使用](https://github.com/Tiansir-wg/reexamination/blob/master/usageOfStack.c)
 69. [比较奇偶数的个数](https://github.com/Tiansir-wg/reexamination/blob/master/compareOddAndEven.c)
+70. [二进制数](https://github.com/Tiansir-wg/reexamination/blob/master/binaryNumber.c)
