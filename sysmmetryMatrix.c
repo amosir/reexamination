@@ -1,9 +1,10 @@
 #include <stdio.h>
+#define ROWS 100
 int main()
 {
     // 矩阵维数
     int n;
-    int matrix[100][100];
+    int matrix[ROWS][ROWS];
 
     scanf("%d", &n);
 
