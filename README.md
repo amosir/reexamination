@@ -79,3 +79,4 @@
 75. [ip 地址](https://github.com/Tiansir-wg/reexamination/blob/master/ipAddress.c)
 76. [a+b](https://github.com/Tiansir-wg/reexamination/blob/master/aPlusB.c)
 77. [快速排序](https://github.com/Tiansir-wg/reexamination/blob/master/quickSort.c)
+78. [特殊排序](https://github.com/Tiansir-wg/reexamination/blob/master/heapSort.c)
