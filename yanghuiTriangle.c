@@ -8,7 +8,7 @@ void PrintYHTriangle(int a[][15], int n);
 int main()
 {
     int a[15][15] = {0};
-    printf("Input n(n < 15):\n");
+    // printf("Input n(n < 15):\n");
     int n;
     scanf("%d", &n);
     YHTriangle(a, n);
@@ -35,11 +35,11 @@ void YHTriangle(int a[][15], int n)
 }
 void PrintYHTriangle(int a[][15], int n)
 {
-    for (int i = 0; i < n; i++)
+    for (int i = 1; i < n; i++)
     {
         for (int j = 0; j <= i; j++)
         {
-            printf("%5d", a[i][j]);
+            printf("%d ", a[i][j]);
         }
         printf("\n");
     }

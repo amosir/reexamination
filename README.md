@@ -74,3 +74,4 @@
 70. [二进制数](https://github.com/Tiansir-wg/reexamination/blob/master/binaryNumber.c)
 71. [寻找第 K 小的数](https://github.com/Tiansir-wg/reexamination/blob/master/findKMin.c)
 72. [字符串合并](https://github.com/Tiansir-wg/reexamination/blob/master/stringCombining.c)
+73. [杨辉三角形](https://github.com/Tiansir-wg/reexamination/blob/master/yanghuiTriangle.c)
