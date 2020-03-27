@@ -82,3 +82,4 @@
 78. [特殊排序](https://github.com/Tiansir-wg/reexamination/blob/master/heapSort.c)
 79. [遍历链表](https://github.com/Tiansir-wg/reexamination/blob/master/visitLinkList.c)
 80. [对称矩阵](https://github.com/Tiansir-wg/reexamination/blob/master/sysmmetryMatrix.c)
+81. [马明宇 yingyingying](https://github.com/Tiansir-wg/reexamination/blob/master/guardNumber.c)
