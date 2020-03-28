@@ -32,7 +32,7 @@ vector<string> split_string(string str)
 }
 
 // 根据字符串填充图
-void buildTaskMap(map<string, vector<string>> &taskMap, string str)
+void buildTaskMap(map<string, vector<string> > &taskMap, string str)
 {
     vector<string> vec = split_string(str);
 
@@ -41,12 +41,12 @@ void buildTaskMap(map<string, vector<string>> &taskMap, string str)
         if (vec[i] != "NULL")
         {
             // 图
-            map<string, vector<string>>::iterator it = taskMap.find(vec[0]);
+            map<string, vector<string> >::iterator it = taskMap.find(vec[0]);
             if (it == taskMap.end())
             {
                 vector<string> temp;
                 temp.push_back(vec[i]);
-                taskMap.insert(pair<string, vector<string>>(vec[0], temp));
+                taskMap.insert(pair<string, vector<string> >(vec[0], temp));
             }
             else
             {
@@ -62,7 +62,7 @@ void buildTaskMap(map<string, vector<string>> &taskMap, string str)
     }
 }
 
-vector<string> findTaskSchedule(map<string, vector<string>> &taskMap)
+vector<string> findTaskSchedule(map<string, vector<string> >  &taskMap)
 {
     // 返回最后的结果
     vector<string> retVec;
@@ -71,7 +71,7 @@ vector<string> findTaskSchedule(map<string, vector<string>> &taskMap)
     // 保存入度为0的节点
     vector<string> in0;
     // 填充入度表
-    for (map<string, vector<string>>::iterator it = taskMap.begin(); it != taskMap.end(); it++)
+    for (map<string, vector<string> >::iterator it = taskMap.begin(); it != taskMap.end(); it++)
     {
         map<string, int>::iterator tempIt = indegree.find(it->first);
         if (tempIt == indegree.end())
@@ -121,7 +121,7 @@ vector<string> findTaskSchedule(map<string, vector<string>> &taskMap)
 
 int main()
 {
-    map<string, vector<string>> taskMap;
+    map<string, vector<string> > taskMap;
     int cnt;
     cin >> cnt;
     for (int i = 0; i < cnt; i++)
