@@ -97,3 +97,4 @@
 93. [编排字符串](https://github.com/Tiansir-wg/reexamination/blob/master/stringArrange.c)
 94. [任务调度](https://github.com/Tiansir-wg/reexamination/blob/master/taskSchedule.cpp)
 95. [单词识别](https://github.com/Tiansir-wg/reexamination/blob/master/wordCount2.c)
+96. [对称平方数1](https://github.com/Tiansir-wg/reexamination/blob/master/symmetricSquare.c)
