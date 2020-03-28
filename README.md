@@ -101,3 +101,4 @@
 97. [第一题](https://github.com/Tiansir-wg/reexamination/blob/master/firstProblem.c)
 98. [加法等式](https://github.com/Tiansir-wg/reexamination/blob/master/equation.c)
 99. [反序相等](https://github.com/Tiansir-wg/reexamination/blob/master/reverseEqualNum.c)
+100. [Problem C](https://github.com/Tiansir-wg/reexamination/blob/master/problemC.c)
