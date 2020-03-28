@@ -99,3 +99,4 @@
 95. [单词识别](https://github.com/Tiansir-wg/reexamination/blob/master/wordCount2.c)
 96. [对称平方数1](https://github.com/Tiansir-wg/reexamination/blob/master/symmetricSquare.c)
 97. [第一题](https://github.com/Tiansir-wg/reexamination/blob/master/firstProblem.c)
+98. [加法等式](https://github.com/Tiansir-wg/reexamination/blob/master/equation.c)
