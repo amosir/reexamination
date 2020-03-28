@@ -92,4 +92,5 @@
 88. [进制转换 2](https://github.com/Tiansir-wg/reexamination/blob/master/numberSystemTransfer2.c)
 89. [Problem D](https://github.com/Tiansir-wg/reexamination/blob/master/problemD.c)
 90. [围圈报数](https://github.com/Tiansir-wg/reexamination/blob/master/circleNumber.c)
-91. [计算天数](https://github.com/Tiansir-wg/reexamination/blob/master/circleNumber.c)
+91. [计算天数](https://github.com/Tiansir-wg/reexamination/blob/master/countDays.c)
+92. [日期类](https://github.com/Tiansir-wg/reexamination/blob/master/datetime.c)
