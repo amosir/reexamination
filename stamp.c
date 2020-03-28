@@ -17,6 +17,7 @@ int main()
             for (int k = 0; k <= 6; k++)
             {
                 int total = 8 * i + 10 * j + 18 * k;
+                // 该值是否出现过
                 int flag = 0;
                 for(int r = 0;r <= top;r++){
                     if(set[r] == total){
@@ -24,6 +25,7 @@ int main()
                         break;
                     }
                 }
+                // 没有出现过的组合入栈
                 if(flag == 0 && total != 0){
                     set[++top] = total;
                 }
