@@ -1,19 +1,21 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-#define SIZE 10
+#define SIZE 1001
 int main()
 {
     char str[SIZE][SIZE];
+    // 指向当前输入的单词
     int index = 0;
-    while (scanf("%s", str[index]) == 1)
+    while (scanf("%s", str[index]) != EOF)
     {
-
         // 将全部字符小写化
-        for (int i = 0; str[index][i] != '\0'; i++)
+        int i;
+        for (i = 0; str[index][i] != '\0' && str[index][i] != '.' && str[index][i] != ','; i++)
         {
             str[index][i] = tolower(str[index][i]);
         }
+        str[index][i] = '\0';
         // 吸收空格和换行
         if (getchar() == '\n')
         {
@@ -22,10 +24,10 @@ int main()
         index++;
     }
 
-    // 字典排序
-    for (int i = 1; i <= index; i++)
+    //字典排序
+    for (int i = 0; i <= index; i++)
     {
-        for (int j = 0; j < index + 1 - i; j++)
+        for (int j = 0; j < index - i; j++)
         {
             if (strcmp(str[j], str[j + 1]) > 0)
             {
@@ -41,7 +43,7 @@ int main()
     int count = 1;
     for (int i = 1; i <= index; i++)
     {
-        if (strcasecmp(str[i], str[i - 1]) == 0)
+        if (strcmp(str[i], str[i - 1]) == 0)
         {
             count++;
         }
